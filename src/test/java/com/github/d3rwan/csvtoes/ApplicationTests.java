@@ -1,4 +1,4 @@
-package com.github.d3rwan.dbtoes;
+package com.github.d3rwan.csvtoes;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
