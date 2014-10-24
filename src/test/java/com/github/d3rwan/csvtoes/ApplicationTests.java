@@ -11,8 +11,8 @@ import com.github.d3rwan.csvtoes.Application;
 @SpringApplicationConfiguration(classes = Application.class)
 public class ApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
+    @Test
+    public void contextLoads() {
+    }
 
 }
