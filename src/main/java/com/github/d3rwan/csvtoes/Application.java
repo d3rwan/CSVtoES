@@ -1,4 +1,4 @@
-package com.github.d3rwan.dbtoes;
+package com.github.d3rwan.csvtoes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

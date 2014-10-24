@@ -1,4 +1,4 @@
-package com.github.d3rwan.dbtoes.models;
+package com.github.d3rwan.csvtoes.models;
 
 
 /**

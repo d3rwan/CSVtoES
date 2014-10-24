@@ -1,4 +1,4 @@
-package com.github.d3rwan.dbtoes.exceptions;
+package com.github.d3rwan.csvtoes.exceptions;
 
 /**
  * Config Exception 

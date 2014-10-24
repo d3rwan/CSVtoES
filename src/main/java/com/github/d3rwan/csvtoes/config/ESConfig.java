@@ -1,4 +1,4 @@
-package com.github.d3rwan.dbtoes.config;
+package com.github.d3rwan.csvtoes.config;
 
 import org.elasticsearch.client.Client;
 import org.elasticsearch.client.transport.TransportClient;
@@ -10,8 +10,8 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.env.Environment;
 
-import com.github.d3rwan.dbtoes.common.Constants;
-import com.github.d3rwan.dbtoes.exceptions.ConfigException;
+import com.github.d3rwan.csvtoes.common.Constants;
+import com.github.d3rwan.csvtoes.exceptions.ConfigException;
 
 /**
  * ES Config 

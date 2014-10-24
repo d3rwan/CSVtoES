@@ -1,7 +1,7 @@
-package com.github.d3rwan.dbtoes.processors;
+package com.github.d3rwan.csvtoes.processors;
 
-import com.github.d3rwan.dbtoes.common.Constants;
-import com.github.d3rwan.dbtoes.models.Person;
+import com.github.d3rwan.csvtoes.common.Constants;
+import com.github.d3rwan.csvtoes.models.Person;
 import com.github.d3rwan.toes.models.ESDocument;
 import com.github.d3rwan.toes.processors.AbstractESItemProcessor;
 
